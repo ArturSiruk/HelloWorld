@@ -1,3 +1,3 @@
 # HelloWorld
-lets conecct to visual studio using java class
-and eclipse
+This line was edited on eclipse
+hopefully it works in merging this time
