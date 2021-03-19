@@ -7,7 +7,7 @@ public class HelloWorld {
 	double x = 10;
 	double y = 5;
 	
-	System.out.println(x + "\n" + y); 
+	System.out.println(x); 
 	
 	}
  
